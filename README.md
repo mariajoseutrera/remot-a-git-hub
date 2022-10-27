@@ -8,3 +8,4 @@ En aquest exercici he posat en pràctica les comandes bàsiques de Git.
 - git merge nom-branca
 - git push origin main
 - git remote -v
+Hola
